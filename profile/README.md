@@ -1,4 +1,4 @@
-#StegoMailo
+# StegoMailo
 
 Stegomailo is a desktop application that allows users to create and send information via email while using 
 the LSB steganography technique.
